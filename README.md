@@ -1,7 +1,7 @@
 ###### Сервер 
 ![image](https://user-images.githubusercontent.com/92955179/146650605-0f29fccc-9d61-4aa2-a52b-e202a577751b.png)
 ###### Возможность регистрировать или делать log in пользователя
-![image](https://user-images.githubusercontent.com/92955179/146650664-dcf1d837-f331-40aa-8638-3a92c45843b0.png)
+![image]![image](https://user-images.githubusercontent.com/81702479/146652212-c348af9e-f5de-4aae-8285-6ad64f40aff4.png)
 ###### Выполним разные действия, нужно предусмотреть, как это указывается в запросе. Фактически, вам нужно придумать набор команд. Причем, многие такие команды требуют передачи дополнительной информации
 ###### создали файл
 ![image](https://user-images.githubusercontent.com/92955179/146650909-24d669f5-bf96-450f-b2d7-54b285fefa0f.png)
